@@ -8,4 +8,4 @@ Este projeto demonstra a aplicação dos princípios SOLID de design orientado a
 - **WrongWay**: Contém exemplos que violam o princípio correspondente.
 - **RightWay**: Contém exemplos que aplicam corretamente o princípio.
 
-Este projeto exemplifica como os princípios SOLID podem ser aplicados em design de software. As implementações erradas servem para destacar as consequências de ignorar esses princípios, enquanto as implementações corretas mostram como melhorar a modularidade, manutenibilidade e testabilidade do código.
+
