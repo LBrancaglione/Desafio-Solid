@@ -1,0 +1,15 @@
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\bin\Debug\net6.0\LSPRightWay.exe
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\bin\Debug\net6.0\LSPRightWay.deps.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\bin\Debug\net6.0\LSPRightWay.runtimeconfig.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\bin\Debug\net6.0\LSPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\bin\Debug\net6.0\LSPRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.csproj.AssemblyReference.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.AssemblyInfoInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.AssemblyInfo.cs
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.csproj.CoreCompileInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\refint\LSPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\LSPRightWay.genruntimeconfig.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Liskov Substitution Principle\LSPRightWay\obj\Debug\net6.0\ref\LSPRightWay.dll

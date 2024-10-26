@@ -1,0 +1,15 @@
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\bin\Debug\net6.0\PedidoApp.exe
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\bin\Debug\net6.0\PedidoApp.deps.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\bin\Debug\net6.0\PedidoApp.runtimeconfig.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\bin\Debug\net6.0\PedidoApp.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\bin\Debug\net6.0\PedidoApp.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.csproj.AssemblyReference.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.AssemblyInfoInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.AssemblyInfo.cs
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.csproj.CoreCompileInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\refint\PedidoApp.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\PedidoApp.genruntimeconfig.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpOnWrongForm\obj\Debug\net6.0\ref\PedidoApp.dll

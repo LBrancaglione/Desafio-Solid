@@ -1,0 +1,15 @@
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.csproj.AssemblyReference.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.AssemblyInfoInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.AssemblyInfo.cs
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.csproj.CoreCompileInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\bin\Debug\net6.0\SrpRightWay.exe
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\bin\Debug\net6.0\SrpRightWay.deps.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\bin\Debug\net6.0\SrpRightWay.runtimeconfig.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\bin\Debug\net6.0\SrpRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\bin\Debug\net6.0\SrpRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\refint\SrpRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\SrpRightWay.genruntimeconfig.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\SrpRightWay\obj\Debug\net6.0\ref\SrpRightWay.dll

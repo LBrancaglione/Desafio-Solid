@@ -1,0 +1,15 @@
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\bin\Debug\net6.0\DIPRightWay.exe
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\bin\Debug\net6.0\DIPRightWay.deps.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\bin\Debug\net6.0\DIPRightWay.runtimeconfig.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\bin\Debug\net6.0\DIPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\bin\Debug\net6.0\DIPRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.csproj.AssemblyReference.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.AssemblyInfoInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.AssemblyInfo.cs
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.csproj.CoreCompileInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\refint\DIPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\DIPRightWay.genruntimeconfig.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Dependency Inversion Principle\DIPRightWay\obj\Debug\net6.0\ref\DIPRightWay.dll

@@ -1,0 +1,15 @@
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\bin\Debug\net6.0\ISPRightWay.exe
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\bin\Debug\net6.0\ISPRightWay.deps.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\bin\Debug\net6.0\ISPRightWay.runtimeconfig.json
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\bin\Debug\net6.0\ISPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\bin\Debug\net6.0\ISPRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.csproj.AssemblyReference.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.AssemblyInfoInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.AssemblyInfo.cs
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.csproj.CoreCompileInputs.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\refint\ISPRightWay.dll
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.pdb
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ISPRightWay.genruntimeconfig.cache
+D:\LeonardoBrancaglione\Fdevs\PrincipiosSolid\Interface Segregation Principle\ISPRightWay\obj\Debug\net6.0\ref\ISPRightWay.dll
